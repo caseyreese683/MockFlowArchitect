@@ -1,0 +1,23 @@
+
+---
+
+### **2. 24_APISignalProbe**  
+**Description:**  
+Checks multiple API endpoints and logs status code, latency, and availability.
+
+#### **README.md**
+```markdown
+# APISignalProbe - HTTP Endpoint Monitor
+
+APISignalProbe performs fast checks on a batch of APIs to track responsiveness and uptime issues.
+
+## Features
+- Multi-endpoint scan  
+- Console and file logging  
+- Adjustable timeout  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_APISignalProbe.git
+cd 24_APISignalProbe
+python monitor.py
