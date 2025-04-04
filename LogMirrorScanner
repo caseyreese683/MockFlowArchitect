@@ -1,0 +1,23 @@
+
+---
+
+### **3. 24_LogMirrorScanner**  
+**Description:**  
+Finds duplicate or frequent log entries and highlights patterns or errors.
+
+#### **README.md**
+```markdown
+# LogMirrorScanner - Log Pattern Analyzer
+
+LogMirrorScanner helps uncover repeating lines, suspicious patterns, and error clusters in application/system logs.
+
+## Features
+- Frequency-based detection  
+- Keyword highlighting  
+- Supports large files  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_LogMirrorScanner.git
+cd 24_LogMirrorScanner
+python analyze.py logs/server.log
