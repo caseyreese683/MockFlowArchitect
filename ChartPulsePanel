@@ -1,0 +1,23 @@
+
+---
+
+### **4. 24_ChartPulsePanel**  
+**Description:**  
+Live-updating line chart for numeric data using Matplotlib.
+
+#### **README.md**
+```markdown
+# ChartPulsePanel - Real-Time Line Chart Viewer
+
+ChartPulsePanel creates smooth real-time visualizations of numeric streams for monitoring or analysis.
+
+## Features
+- Dynamic chart display  
+- Lightweight and fast  
+- Suitable for simulations and sensors  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_ChartPulsePanel.git
+cd 24_ChartPulsePanel
+python visualize.py
